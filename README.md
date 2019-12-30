@@ -1,5 +1,5 @@
 # ImageCompression
-Using PCA, K-means Clustering and maybe another algorithm in Colab
+Using PCA, K-means Clustering and maybe another algorithm in Jupyter
 
 Image compression is not only for image compression, but also a method helping us find the major components in a data set.
 
