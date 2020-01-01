@@ -1,6 +1,8 @@
 # ImageCompression
-Using PCA, K-means Clustering and maybe another algorithm in Jupyter
 
+Using PCA, K-means Clustering and maybe another algorithm in Jupyter.  Original picture is in Resources folder.  Compressed one is in each python scripts folder.
+
+Why doing this?
 Image compression is not only for image compression, but also a method helping us find the major components in a data set.
 
 It can be features selected from current features, or a different, transformed set of features (but less).  It will not only simplify the situation (to fewer features) but also reduce memory/CPU loads and speed up training process.
