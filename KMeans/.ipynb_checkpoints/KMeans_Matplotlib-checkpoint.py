@@ -40,4 +40,4 @@ im_compressed = np.reshape(df_combined_sort_select.values,(x,y,z))
 # show original and compressed images 
 #show(im_original)
 #show(im_compressed)
-plt.imsave("KMeans/sample_Matplotlib_compressed.JPG", im_compressed)
+plt.imsave("KMeans/sample_Matplotlib.compressed.JPG", im_compressed)
